@@ -2,7 +2,7 @@
 
 Este documento mostra meu primeiro trabalho obrigatório de minha pós-graduação em Data Analytics, com um desafio chamado "Tech Challange", onde aplico diversas técnicas de análise de dados utilizando storytelling e tecnologia Python e suas bibliotecas para analisar um serviço comum de um analista de dados.
 
-#Cenário do Problema:
+# Cenário do Problema:
 
 Sou **Expert em Data Analytics** em uma empresa que exporta vinhos do Brasil para o mundo todo. Nossa área de dados foi recém-criada, e minha responsabilidade inicial é desenvolver relatórios que serão apresentados em uma reunião com investidores e acionistas.
 
@@ -23,13 +23,13 @@ Para isso, o Head de Dados solicitou que eu construísse uma tabela contendo:
 Os dados utilizados foram fornecidos por uma vinícola parceira e estão disponíveis no site da **Embrapa**:
 [http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt\_01](http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt_01)
 
-#Objetivo do Problema
+# Objetivo do Problema:
 
 Meu objetivo é apresentar o montante de vendas de exportação dos últimos 15 anos, separando a análise por país. Além disso, trago projeções futuras e possíveis ações estratégicas para melhorar as exportações.
 
 Para tornar a análise mais clara e visual, desenvolvi gráficos que facilitam a compreensão dos resultados e das tendências observadas.
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas:
 
 As tecnologias utilizadas foi a linguagem Python com as seguintes bibliotecas:
 
