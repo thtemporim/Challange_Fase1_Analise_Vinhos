@@ -25,7 +25,7 @@ Os dados utilizados foram fornecidos por uma vinícola parceira e estão dispon�
 
 # Objetivo do Problema:
 
-Meu objetivo é apresentar o montante de vendas de exportação dos últimos 15 anos, separando a análise por país. Além disso, trago projeções futuras e possíveis ações estratégicas para melhorar as exportações.
+Com a pergunta norteadora sendo ""Meu objetivo é apresentar o montante de vendas de exportação dos últimos 15 anos, separando a análise por país. Além disso, trago projeções futuras e possíveis ações estratégicas para melhorar as exportações.
 
 Para tornar a análise mais clara e visual, desenvolvi gráficos que facilitam a compreensão dos resultados e das tendências observadas.
 
