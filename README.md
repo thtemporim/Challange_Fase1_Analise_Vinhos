@@ -33,8 +33,7 @@ Para tornar a análise mais clara e visual, desenvolvi gráficos que facilitam a
 
 As tecnologias utilizadas foi a linguagem Python com as seguintes bibliotecas:
 
-* Python 3.12.3
 * Pandas
-* Matplotlib & Plotly
+* Matplotlib
+* Plotly
 * NumPy
-* Jupyter Notebook
