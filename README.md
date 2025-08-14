@@ -31,7 +31,7 @@ Para tornar a análise mais clara e visual, desenvolvi gráficos que facilitam a
 
 # Tecnologias Utilizadas:
 
-As tecnologias utilizadas foi a linguagem Python com as seguintes bibliotecas:
+A tecnologia utilizada foi a linguagem Python com as seguintes bibliotecas:
 
 * Pandas
 * Matplotlib
